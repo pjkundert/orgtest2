@@ -1,0 +1,33 @@
+* TODO Project Recess 3.0 <2014-05-28 Wed>
+#+BEGIN: columnview :hlines 1 :id local
+| Task                                       | Effort | CLOCKSUM |
+|--------------------------------------------+--------+----------|
+| * TODO Project Recess 3.0 <2014-05-28 Wed> |   2:30 |     0:49 |
+| ** TODO three-day availability             |   0:30 |          |
+| ** TODO in-app onboarding                  |   1:00 |          |
+| ** TODO burndown chart                     |   1:00 |     0:49 |
+#+END:
+
+** TODO three-day availability
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+   availabilities for next three days rather than two
+   - benefit :: Can pitch companies in Burlington Mon and Tue for [2014-06-05 Thu] event
+** TODO in-app onboarding
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   in-app onboarding sequence to intro new users to product flow
+   - benefit :: Mitigate new-user confusion
+** TODO burndown chart
+   :LOGBOOK:
+   CLOCK: [2014-05-28 Wed 11:10]--[2014-05-28 Wed 11:33] =>  0:23
+   CLOCK: [2014-05-28 Wed 10:46]--[2014-05-28 Wed 11:10] =>  0:24
+   CLOCK: [2014-05-28 Wed 10:30]--[2014-05-28 Wed 10:32] =>  0:02
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   Draft product burndown chart for short-term feature roadmap
+   - benefit :: Can prioritize / flex scope with fixed time budget
