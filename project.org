@@ -1,10 +1,10 @@
-* TODO Project Recess 3.0 <2014-05-28 Wed>
+* TODO Project Recess 3.0 <2014-05-29 Thu>
 #+BEGIN: columnview :hlines 1 :id local
 | Task                                       | Effort | CLOCKSUM |
 |--------------------------------------------+--------+----------|
-| * TODO Project Recess 3.0 <2014-05-28 Wed> |   2:30 |     0:49 |
+| * TODO Project Recess 3.0 <2014-05-29 Thu> |   2:30 |     1:19 |
 | ** TODO three-day availability             |   0:30 |          |
-| ** TODO in-app onboarding                  |   1:00 |          |
+| ** TODO in-app onboarding                  |   1:00 |     0:30 |
 | ** TODO burndown chart                     |   1:00 |     0:49 |
 #+END:
 
@@ -15,6 +15,9 @@
    availabilities for next three days rather than two
    - benefit :: Can pitch companies in Burlington Mon and Tue for [2014-06-05 Thu] event
 ** TODO in-app onboarding
+   :LOGBOOK:
+   CLOCK: [2014-05-29 Thu 11:00]--[2014-05-29 Thu 11:30] =>  0:30
+   :END:
    :PROPERTIES:
    :Effort:   1:00
    :END:
