@@ -1,14 +1,17 @@
-* TODO Project Recess 3.0 <2014-05-30 Fri>
+* TODO Project Recess 3.0 <2014-05-31 Sat>
 #+BEGIN: columnview :hlines 1 :id local
 | Task                                       | Effort | CLOCKSUM |
 |--------------------------------------------+--------+----------|
-| * TODO Project Recess 3.0 <2014-05-30 Fri> |   2:30 |     2:12 |
-| ** TODO three-day availability             |   0:30 |          |
+| * TODO Project Recess 3.0 <2014-05-31 Sat> |   2:30 |     3:05 |
+| ** DONE three-day availability             |   0:30 |     0:30 |
 | ** DONE in-app onboarding                  |   1:00 |     1:00 |
-| ** DONE burndown chart                     |   1:00 |     1:12 |
+| ** DONE burndown chart                     |   1:00 |     1:35 |
 #+END:
 
-** TODO three-day availability
+** DONE three-day availability
+   :LOGBOOK:
+   CLOCK: [2014-05-31 Sat 11:00]--[2014-05-31 Sat 11:30] =>  0:30
+   :END:
    :PROPERTIES:
    :Effort:   0:30
    :END:
@@ -26,6 +29,7 @@
    - benefit :: Mitigate new-user confusion
 ** DONE burndown chart
    :LOGBOOK:
+   CLOCK: [2014-05-31 Sat 11:10]--[2014-05-31 Sat 11:33] =>  0:23
    CLOCK: [2014-05-30 Fri 11:10]--[2014-05-30 Fri 11:33] =>  0:23
    CLOCK: [2014-05-28 Wed 11:10]--[2014-05-28 Wed 11:33] =>  0:23
    CLOCK: [2014-05-28 Wed 10:46]--[2014-05-28 Wed 11:10] =>  0:24
